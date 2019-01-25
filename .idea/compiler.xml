@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="secondSeleniumProject_main" target="1.8" />
+      <module name="secondSeleniumProject_test" target="1.8" />
       <module name="Timur.firstSeleniumProject.main" target="1.8" />
       <module name="Timur.firstSeleniumProject.test" target="1.8" />
     </bytecodeTargetLevel>

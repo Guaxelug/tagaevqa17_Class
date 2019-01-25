@@ -18,13 +18,35 @@ public class OpenFirefoxBrowser {
 
     @Test
     public void testEbaySearch(){
-        wd.get("https://www.ebay.com/");
+        //open site
+        openSite();
+        type();
+
+        click();
+    }
+    @Test
+    public void testEbayFilter(){
+        openSite();
+        type();
+        click();
+        filterItems();
+    }
+    public void click() {
+        wd.findElement(By.id("gh-btn")).click();
+    }
+
+    public void filterItems() {
+        wd.findElement(By.linkText("Auction")).click();
+    }
+
+    public void type() {
         wd.findElement(By.id("gh-ac")).click();
         wd.findElement(By.id("gh-ac")).clear();
         wd.findElement(By.id("gh-ac")).sendKeys("glasses");
+    }
 
-        wd.findElement(By.id("gh-btn")).click();
-
+    public void openSite() {
+        wd.get("https://www.ebay.com/");
     }
 
     @AfterMethod

@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Timur.firstSeleniumProject.iml" filepath="$PROJECT_DIR$/.idea/modules/Timur.firstSeleniumProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Timur.firstSeleniumProject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Timur.firstSeleniumProject.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Timur.firstSeleniumProject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Timur.firstSeleniumProject.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProject.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProject_main.iml" group="secondSeleniumProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProject_test.iml" group="secondSeleniumProject" />
     </modules>
   </component>
 </project>
