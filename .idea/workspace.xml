@@ -50,15 +50,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/LogoutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#fillLoginForm#0;class#TestBase#0" />
+                <element signature="method#login#0;class#TestBase#0" />
+                <element signature="method#isElementPresent#0;class#TestBase#0" />
               </folding>
             </state>
           </provider>
@@ -73,6 +94,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,10 +112,12 @@
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFirefoxBrowser.java" />
         <option value="$PROJECT_DIR$/secondSeleniumProject/build.gradle" />
         <option value="$PROJECT_DIR$/secondSeleniumProject/src/test/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/secondSeleniumProject/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/secondSeleniumProject/src/test/java/LogoutTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="45" />
     <option name="y" value="10" />
     <option name="width" value="1750" />
@@ -101,41 +129,63 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="secondSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="secondSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="secondSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="secondSeleniumProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548444219622" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549299451254" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tagaevqa17_HomeWork" />
@@ -143,6 +193,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,26 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest">
-    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="secondSeleniumProject_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.testLogIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="secondSeleniumProject_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="testLogIn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LogoutTest">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="secondSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -198,10 +234,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenFirefoxBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Timur.firstSeleniumProject.test" />
+    <configuration name="LogoutTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenFirefoxBrowser" />
+      <option name="MAIN_CLASS_NAME" value="LogoutTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="secondSeleniumProject_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogoutTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTest.testLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="secondSeleniumProject_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogoutTest" />
+      <option name="METHOD_NAME" value="testLogout" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -210,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LogoutTest" />
+        <item itemvalue="TestNG.LogoutTest.testLogout" />
+        <item itemvalue="TestNG.LogoutTest (1)" />
         <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTest.testLogIn" />
-        <item itemvalue="JUnit.LoginTest" />
-        <item itemvalue="JUnit.LoginTest.testLogIn" />
-        <item itemvalue="TestNG.OpenFirefoxBrowser" />
       </list>
     </recent_temporary>
   </component>
@@ -232,41 +289,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenFirefoxBrowser - 2019.01.24 at 19h 07m 39s.xml">
-      <configuration name="OpenFirefoxBrowser" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.29 at 20h 09m 33s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxBrowser - 2019.01.24 at 19h 08m 51s.xml">
-      <configuration name="OpenFirefoxBrowser" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.29 at 20h 13m 50s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 20h 25m 16s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.29 at 20h 14m 33s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_testLogIn - 2019.01.24 at 20h 26m 23s.xml">
-      <configuration name="LoginTest.testLogIn" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.29 at 20h 16m 11s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_testLogIn - 2019.01.24 at 20h 27m 01s.xml">
-      <configuration name="LoginTest.testLogIn" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.29 at 20h 16m 48s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_testLogIn - 2019.01.24 at 20h 28m 25s.xml">
-      <configuration name="LoginTest.testLogIn" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.31 at 18h 10m 01s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 20h 31m 20s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.31 at 20h 29m 11s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 20h 32m 36s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.31 at 20h 30m 32s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 20h 33m 05s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.31 at 20h 33m 55s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 20h 33m 49s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LogoutTest - 2019.01.31 at 20h 36m 05s.xml">
+      <configuration name="LogoutTest" configurationId="TestNG" />
     </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118791945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12174479" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,16 +342,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32577905" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.31687242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34293553" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50065106" side_tool="true" weight="0.31138545" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32719547" />
       <window_info anchor="bottom" id="Extract Method" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -334,9 +401,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/out/test/classes/OpenChromeBrowser.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -369,6 +433,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/8950c1557ead2cdba4fdb9ba6f107dce3b5f1520/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/ErrorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/LoginTest.class" />
+    <entry file="file://$USER_HOME$/Downloads/LogoutTest.class" />
+    <entry file="file://$USER_HOME$/Downloads/TestBase.class" />
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/out/test/classes/OpenChromeBrowser.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/out/test/classes/OpenFirefoxBrowser.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/secondSeleniumProject/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -376,14 +456,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="544">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
+            <element signature="method#fillLoginForm#0;class#TestBase#0" />
+            <element signature="method#login#0;class#TestBase#0" />
+            <element signature="method#isElementPresent#0;class#TestBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondSeleniumProject/src/test/java/LogoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
